@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_8fNU4ZFiEeq6qu5oH9lr2A" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_8fNU4pFiEeq6qu5oH9lr2A" bindingContexts="_8fN79ZFiEeq6qu5oH9lr2A">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.subflow.editor&quot; name=&quot;getInventoryUsingGET.subflow&quot; tooltip=&quot;sampleaceproject/getInventoryUsingGET.subflow&quot;>&#xA;&lt;persistable path=&quot;/sampleaceproject/getInventoryUsingGET.subflow&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.restapi.ui.editors.Editor&quot; name=&quot;restapi.descriptor&quot; tooltip=&quot;sampleaceproject/restapi.descriptor&quot;>&#xA;&lt;persistable path=&quot;/sampleaceproject/restapi.descriptor&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;com.ibm.bpm.gettingstarted.editor.GettingStartedEditorElementFactory&quot; id=&quot;com.ibm.bpm.gettingstarted.noeditor.NoEditorEditor&quot; name=&quot;IBM App Connect Enterprise Toolkit&quot; tooltip=&quot;Getting Started - IBM App Connect Enterprise Toolkit&quot;>&#xA;&lt;persistable gettingStartedID=&quot;com.ibm.etools.mft.gettingstarted&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.restapi.ui.JavaScriptEditor&quot; name=&quot;inventory_api.json&quot; tooltip=&quot;sampleaceproject/inventory_api.json&quot;>&#xA;&lt;persistable path=&quot;/sampleaceproject/inventory_api.json&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.subflow.editor&quot; name=&quot;getInventoryUsingGET.subflow&quot; tooltip=&quot;sampleaceproject/getInventoryUsingGET.subflow&quot;>&#xA;&lt;persistable path=&quot;/sampleaceproject/getInventoryUsingGET.subflow&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.ibm.etools.mft.restapi.ui.editors.Editor&quot; name=&quot;restapi.descriptor&quot; tooltip=&quot;sampleaceproject/restapi.descriptor&quot;>&#xA;&lt;persistable path=&quot;/sampleaceproject/restapi.descriptor&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;com.ibm.bpm.gettingstarted.editor.GettingStartedEditorElementFactory&quot; id=&quot;com.ibm.bpm.gettingstarted.noeditor.NoEditorEditor&quot; name=&quot;IBM App Connect Enterprise Toolkit&quot; tooltip=&quot;Getting Started - IBM App Connect Enterprise Toolkit&quot;>&#xA;&lt;persistable gettingStartedID=&quot;com.ibm.etools.mft.gettingstarted&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_8fNU4pFiEeq6qu5oH9lr2A" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_8y6UAZFiEeq6qu5oH9lr2A" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1680" height="1050">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1588966479420"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_8y6UAZFiEeq6qu5oH9lr2A" selectedElement="_8y67EJFiEeq6qu5oH9lr2A" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_8y67EJFiEeq6qu5oH9lr2A" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_84ohgJFiEeq6qu5oH9lr2A">
         <children xsi:type="advanced:Perspective" xmi:id="_84ohgJFiEeq6qu5oH9lr2A" elementId="com.ibm.etools.mft.perspectives.BrokerDevelopmentPerspective" selectedElement="_84ohgZFiEeq6qu5oH9lr2A" label="Integration Development" iconURI="platform:/plugin/com.ibm.etools.mft.flow/icons/full/view16/msgflow_perspective.gif">
@@ -124,7 +127,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_83_BQJFiEeq6qu5oH9lr2A" elementId="org.eclipse.ui.editorss" selectedElement="_83_BQZFiEeq6qu5oH9lr2A">
-      <children xsi:type="basic:PartStack" xmi:id="_83_BQZFiEeq6qu5oH9lr2A" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_hf0g0JFjEeq6qu5oH9lr2A">
+      <children xsi:type="basic:PartStack" xmi:id="_83_BQZFiEeq6qu5oH9lr2A" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3LADkGqbEeupePb2L6EE1A">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
@@ -135,7 +138,7 @@
           <tags>com.ibm.etools.mft.restapi.ui.editors.Editor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_hf0g0JFjEeq6qu5oH9lr2A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="getInventoryUsingGET.subflow" iconURI="platform:/plugin/com.ibm.etools.mft.flow/icons/full/view16/subflow_view.gif" closeable="true">
+        <children xsi:type="basic:Part" xmi:id="_3LADkGqbEeupePb2L6EE1A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="getInventoryUsingGET.subflow" iconURI="platform:/plugin/com.ibm.etools.mft.flow/icons/full/view16/subflow_view.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;com.ibm.etools.mft.subflow.editor&quot; name=&quot;getInventoryUsingGET.subflow&quot; partName=&quot;getInventoryUsingGET.subflow&quot; title=&quot;getInventoryUsingGET.subflow&quot; tooltip=&quot;sampleaceproject/getInventoryUsingGET.subflow&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/sampleaceproject/getInventoryUsingGET.subflow&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>com.ibm.etools.mft.subflow.editor</tags>
@@ -146,7 +149,7 @@
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_84IyQJFiEeq6qu5oH9lr2A" elementId="com.ibm.etools.mft.navigator.resource" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Application Development" iconURI="platform:/plugin/com.ibm.etools.mft.navigator/icons/full/view16/msgflow_perspective.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view ProjectsMode=&quot;AppLib&quot; project_scrollbar_horizontal=&quot;0&quot; project_scrollbar_vertical=&quot;0&quot; sectionExpansion=&quot;ONLY_PROJECTS&quot; sectionExpansionFirstWeight=&quot;100&quot; sorter=&quot;0&quot; workingSetName=&quot;&quot;>&#xA;&lt;filters>&#xA;&lt;filter element=&quot;Empty Parent Broker Schemas&quot;/>&#xA;&lt;filter element=&quot;Empty Parent Message Namespaces&quot;/>&#xA;&lt;filter element=&quot;Groups (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;.*&quot;/>&#xA;&lt;filter element=&quot;Elements And Attributes (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;Messages (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;Types (Schema Files)&quot;/>&#xA;&lt;/filters>&#xA;&lt;expanded>&#xA;&lt;element path=&quot;sampleaceproject&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources&quot;/>&#xA;&lt;/expanded>&#xA;&lt;elementMap name=&quot;[sampleaceproject]&quot;>&#xA;&lt;item factoryID=&quot;org.eclipse.ui.internal.model.ResourceFactory&quot; path=&quot;/sampleaceproject&quot; type=&quot;4&quot;/>&#xA;&lt;/elementMap>&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view ProjectsMode=&quot;AppLib&quot; project_scrollbar_horizontal=&quot;0&quot; project_scrollbar_vertical=&quot;0&quot; sectionExpansion=&quot;ONLY_PROJECTS&quot; sectionExpansionFirstWeight=&quot;100&quot; sorter=&quot;0&quot; workingSetName=&quot;&quot;>&#xA;&lt;filters>&#xA;&lt;filter element=&quot;Empty Parent Broker Schemas&quot;/>&#xA;&lt;filter element=&quot;Empty Parent Message Namespaces&quot;/>&#xA;&lt;filter element=&quot;Groups (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;.*&quot;/>&#xA;&lt;filter element=&quot;Elements And Attributes (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;Messages (Schema Files)&quot;/>&#xA;&lt;filter element=&quot;Types (Schema Files)&quot;/>&#xA;&lt;/filters>&#xA;&lt;selection>&#xA;&lt;element path=&quot;0*/sampleaceproject/inventory_api.json&quot;/>&#xA;&lt;/selection>&#xA;&lt;expanded>&#xA;&lt;element path=&quot;sampleaceproject&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources|Flows&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources|Flows|gen&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources|Subflows&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources|REST API Catalog&quot;/>&#xA;&lt;element path=&quot;sampleaceproject|Resources|Other Resources&quot;/>&#xA;&lt;/expanded>&#xA;&lt;elementMap name=&quot;[sampleaceproject]&quot;>&#xA;&lt;item factoryID=&quot;org.eclipse.ui.internal.model.ResourceFactory&quot; path=&quot;/sampleaceproject&quot; type=&quot;4&quot;/>&#xA;&lt;/elementMap>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Integration Development</tags>
       <menus xmi:id="_86cfYJFiEeq6qu5oH9lr2A" elementId="com.ibm.etools.mft.navigator.resource">
@@ -230,7 +233,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_81EQIJFiEeq6qu5oH9lr2A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_81H6gJFiEeq6qu5oH9lr2A" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_8fwH0ZFiEeq6qu5oH9lr2A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pSKEcGqbEeupePb2L6EE1A" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_8fwH0ZFiEeq6qu5oH9lr2A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_81EQIZFiEeq6qu5oH9lr2A" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -254,7 +257,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_81EQJZFiEeq6qu5oH9lr2A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_81JvsJFiEeq6qu5oH9lr2A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8fwHdZFiEeq6qu5oH9lr2A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pSL5omqbEeupePb2L6EE1A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8fwHdZFiEeq6qu5oH9lr2A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_81EQJpFiEeq6qu5oH9lr2A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -854,7 +857,7 @@
     <bindings xmi:id="_8g8aT5FiEeq6qu5oH9lr2A" keySequence="ALT+COMMAND+SHIFT+A" command="_8fvgn5FiEeq6qu5oH9lr2A"/>
     <bindings xmi:id="_8g9BUJFiEeq6qu5oH9lr2A" keySequence="ALT+SHIFT+D R" command="_8ftrepFiEeq6qu5oH9lr2A"/>
     <bindings xmi:id="_8g9BW5FiEeq6qu5oH9lr2A" keySequence="COMMAND+DEL" command="_8fwuuZFiEeq6qu5oH9lr2A"/>
-    <bindings xmi:id="_8hIngpFiEeq6qu5oH9lr2A" keySequence="COMMAND+CTRL+F" command="_8hIngJFiEeq6qu5oH9lr2A"/>
+    <bindings xmi:id="_o2HosWqbEeupePb2L6EE1A" keySequence="COMMAND+CTRL+F" command="_8hIngJFiEeq6qu5oH9lr2A"/>
   </bindingTables>
   <bindingTables xmi:id="_8gfHQpFiEeq6qu5oH9lr2A" elementId="com.ibm.lpex.seuScope" bindingContext="_8fzyCpFiEeq6qu5oH9lr2A">
     <bindings xmi:id="_8gfHQ5FiEeq6qu5oH9lr2A" keySequence="SHIFT+F8" command="_8fpZ35FiEeq6qu5oH9lr2A"/>
@@ -1429,7 +1432,7 @@
     <bindings xmi:id="_8g9BXZFiEeq6qu5oH9lr2A" keySequence="COMMAND+SHIFT+D" command="_8fwHf5FiEeq6qu5oH9lr2A"/>
   </bindingTables>
   <bindingTables xmi:id="_8hJOkJFiEeq6qu5oH9lr2A" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_8fN7-JFiEeq6qu5oH9lr2A">
-    <bindings xmi:id="_8hJOkZFiEeq6qu5oH9lr2A" keySequence="M1+W" command="_8hInhZFiEeq6qu5oH9lr2A"/>
+    <bindings xmi:id="_o2IPwGqbEeupePb2L6EE1A" keySequence="M1+W" command="_8hInhZFiEeq6qu5oH9lr2A"/>
   </bindingTables>
   <bindingTables xmi:id="_84APYZFiEeq6qu5oH9lr2A" bindingContext="_84APYJFiEeq6qu5oH9lr2A"/>
   <bindingTables xmi:id="_84APY5FiEeq6qu5oH9lr2A" bindingContext="_84APYpFiEeq6qu5oH9lr2A"/>
