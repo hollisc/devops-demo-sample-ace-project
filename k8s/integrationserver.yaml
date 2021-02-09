@@ -5,9 +5,9 @@ metadata:
 spec:
   designerFlowsOperationMode: disabled
   license:
-    accept: true
-    license: L-AMYG-BQ2E4U
-    use: CloudPakForIntegrationProduction
+    accept: false
+    license: L-APEH-BSVCHU
+    use: AppConnectEnterpriseProduction
   pod:
     containers:
       runtime:
@@ -21,4 +21,4 @@ spec:
     endpointType: http
   useCommonServices: true
   version: 11.0.0
-  configurations: ["odbc-conf"]  
+  #configurations: ["odbc-conf"]
