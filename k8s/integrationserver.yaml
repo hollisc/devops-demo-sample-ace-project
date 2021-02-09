@@ -5,7 +5,7 @@ metadata:
 spec:
   designerFlowsOperationMode: disabled
   license:
-    accept: false
+    accept: true
     license: L-APEH-BSVCHU
     use: AppConnectEnterpriseProduction
   pod:
