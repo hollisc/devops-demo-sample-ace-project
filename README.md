@@ -1,9 +1,7 @@
 # devops-demo-sample-ace-project
 ACE Toolkit Workspace for sample application
 
-
 ## Creating a workspace folder from IBM App Connect Enterprise
-
 
 1. Set up your base workspace folder at Enterprise startup
 <img src="Images/01-set-wrkspc-fldr.png" width="550">
@@ -45,4 +43,4 @@ When creating the project name, please use only lowercase letters and dashes onl
 3. Click on the link to the newly executed PipelineRun and monitor the status.  You can also run `oc get pods -w` in the <project> to view the status of the pods.
 ```
 
-Test5
+Test6
