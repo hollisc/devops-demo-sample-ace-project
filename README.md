@@ -45,4 +45,4 @@ When creating the project name, please use only lowercase letters and dashes onl
 3. Click on the link to the newly executed PipelineRun and monitor the status.  You can also run `oc get pods -w` in the <project> to view the status of the pods.
 ```
 
-Test4
+Test5
