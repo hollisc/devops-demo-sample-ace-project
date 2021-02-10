@@ -1,7 +1,6 @@
 # devops-demo-sample-ace-project
 ACE Toolkit Workspace for managing an Inventory API workflow
 
-
 ## Creating a workspace folder from IBM App Connect Enterprise
 
 1. Set up your base workspace folder at Enterprise startup
